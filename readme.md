@@ -1,0 +1,1 @@
+MVP to show sklearn to predict event category, based on events.csv
